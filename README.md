@@ -1,2 +1,2 @@
-# sayat
+# piscine-go
 piscine-go
